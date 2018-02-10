@@ -1,13 +1,18 @@
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: gray;
-    color: white;
-    text-align: center;
+.AboutMe{
+  margin-left: 100px;
 }
 
 .image{
   border-radius: 50%;
+}
+.Experiences{
+  margin-left: 260px;
+}
+.Projects{
+text-align: center;
+margin-top: 50px;
+}
+
+.contact{
+  
 }
